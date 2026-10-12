@@ -10,3 +10,7 @@ Arquivos originais enviados na conversa, numerados na ordem de chegada (`1` a `4
 Imagens de fundo (backgrounds) e o brandbook (`../brandbook-salute.pdf`) estão fora desta numeração: o brandbook está em `brand/brandbook-salute.pdf`, e os backgrounds foram enviados como arquivos separados que não estão nesta pasta.
 
 Os nomes e rostos que aparecem nas imagens não devem ser reproduzidos na predefinição da SALUTE.
+
+## Complemento
+
+Imagens 42 a 51 copiadas depois do primeiro índice, para completar a numeração original (42 a 46: lote 4 e 5 da Awsales; 47 a 51: lotes 7 a 8 e 10 e 11, conforme as notas correspondentes).
